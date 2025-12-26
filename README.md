@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a seasoned and results-oriented Software Engineer with **3.10+ years of experience** in designing, developing, and deploying secure, stable, and scalable cloud-native enterprise applications.
+I'm a seasoned and results-oriented Software Engineer with **4 years of experience** in designing, developing, and deploying secure, stable, and scalable cloud-native enterprise applications.
 
 I am proficient in **Java**, **Spring Boot**, **Microservices**, and **AWS**, with a proven track record of optimizing system performance and delivering high-quality production code within agile environments.
 
