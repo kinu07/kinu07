@@ -61,7 +61,7 @@ I am proficient in **Java**, **Angular**, **Spring Boot**, **Microservices**, an
 * AWS AI Practitioner
 * Infosys Certified Spring Boot Developer
 * Scalable Java Microservices (Google)
-* Prompt Engineering (Vanderbilt)
+* Prompt Engineering (Vanderbilt University)
 * Google Prompting Essentials
 
 ---
